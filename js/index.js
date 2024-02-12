@@ -1,4 +1,3 @@
-updateInnerHTML('h1', "New Topic")
 function strong(string) {
     return `<strong>${string}</strong>`
 }
